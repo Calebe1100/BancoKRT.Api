@@ -1,4 +1,4 @@
-,using BancoKRT.Api.Application.Accounts;
+using BancoKRT.Api.Application.Accounts;
 using BancoKRT.Api.Domain.Accounts;
 using BancoKRT.Api.Infrastructure.Messaging;
 using BancoKRT.Api.Infrastructure.Persistence;
